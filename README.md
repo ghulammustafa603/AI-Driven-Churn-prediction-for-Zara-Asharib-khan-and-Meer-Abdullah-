@@ -100,6 +100,3 @@ streamlit run app.py
 
 - **Asharib Khan**
 - **Meer Abdullah**
-- **Ghulam Mustafa**
-
-Developed with ❤️ using **Antigravity AI**.
